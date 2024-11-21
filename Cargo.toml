@@ -10,6 +10,7 @@ authors = [
 ]
 edition = "2021"
 default-run = "redlib"
+rust-version = "1.77"
 
 [dependencies]
 rinja = { version = "0.3.4", default-features = false }
