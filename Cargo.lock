@@ -1378,6 +1378,7 @@ dependencies = [
  "serde",
  "serde_json",
  "serde_json_path",
+ "serde_json_path_core 0.1.6",
  "serde_yaml",
  "tegen",
  "time",
